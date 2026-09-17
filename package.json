@@ -1,0 +1,24 @@
+{
+  "name": "revisaoprimeiraapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "servidor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raphaelholiveira1-star/RevisaoPrimeiraAPI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/raphaelholiveira1-star/RevisaoPrimeiraAPI/issues"
+  },
+  "homepage": "https://github.com/raphaelholiveira1-star/RevisaoPrimeiraAPI#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
